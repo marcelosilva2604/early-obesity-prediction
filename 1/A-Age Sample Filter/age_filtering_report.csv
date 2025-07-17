@@ -1,0 +1,2 @@
+original_dataset_size,filtered_dataset_size,children_removed,retention_rate,target_ages,age_distribution,missing_values_original,missing_values_filtered
+14558,8236,6322,56.573705179282875,"[2, 3, 4]","{2: 2714, 3: 2810, 4: 2712}",0,0

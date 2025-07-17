@@ -4,6 +4,14 @@
 data_*.csv
 data_*.txt
 
+# But keep important smaller files
+!age_distribution_report.csv
+!age_filtering_report.csv
+!filtering_summary_report.csv
+!complete_missing_analysis_report.csv
+!excluded_variables_missing30_report.csv
+!variaveis_excluidas_90pct.csv
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
